@@ -1,0 +1,12 @@
+name: phase_based
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - numpy=1.26.4
+  - opencv>=4.9
+  - pillow
+  - pytorch
+  - torchvision

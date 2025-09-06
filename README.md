@@ -9,6 +9,13 @@ The [main notebook](https://github.com/itberrios/phase_based/blob/main/motion_am
 
 While the notebook is good for interactive use, the main script called motion_magnification.py is a better option to run on your own videos. It can be called from the commandline or alternatively the arguments can be input directly in the script. 
 
+## Environment setup
+
+Using Micromamba:
+```python
+micromamba create -f environment.yml
+```
+
 ## Applying Motion Magnification
 
 The following commandline arguments produce the following GIF: <br>
